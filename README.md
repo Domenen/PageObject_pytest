@@ -1,1 +1,7 @@
-# PageObject_pytest
+Репозиторий для финальной работы по автотестированию 
+
+ - PageObject
+
+ - PyTest
+
+ - Selenium
