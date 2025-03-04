@@ -7,7 +7,7 @@ def pytest_addoption(parser):
     parser.addoption(
         '--language',
         action='store',
-        default=None,
+        default='en',
         help="Выберите язык 'ru', 'en', 'fr'"
     )
 
