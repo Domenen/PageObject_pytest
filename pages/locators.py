@@ -14,3 +14,4 @@ class ProductPageLocators():
     OBJ_PRICE_BOOK = (By.CSS_SELECTOR, "p.price_color")
     OBJ_PRICE_IN_BASKET = (By.CSS_SELECTOR, ".alert-info strong")
     OBJ_TEXT_ALERT_FIRST = (By.CSS_SELECTOR, ".alertinner strong")
+    SUCCESS_MESSAGE = (By.CSS_SELECTOR, ".alertinner")
